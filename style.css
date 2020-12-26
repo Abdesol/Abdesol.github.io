@@ -4,10 +4,10 @@
 
 
 /* css variables */ 
-@import url(_variables.css);
+@import url(variables.css);
 
 /* import global styling */ 
-@import url(_global.css);
+@import url(global.css);
 
 
 /* start navigation */ 
