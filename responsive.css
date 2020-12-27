@@ -74,6 +74,11 @@
 
     .container{
         max-width: 90%;
+
+    }
+    .cont{
+        max-width: 100%;
+        background-color: #D1D5D8;
     }
 
     .site-main .brand-area,
