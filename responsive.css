@@ -32,7 +32,6 @@
 /* if the viewport is equal to 340px or less than that */ 
 
 .site-main .about-area .about-title h2 > span{
-    font-family: 'Audio', cursive;
     font-size: 31px;
     letter-spacing: 10px;
 }
