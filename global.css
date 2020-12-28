@@ -3,11 +3,11 @@
 /* Global Classes */ 
 
 .title-text{
-    font: normal bold 50px/ 72px var(--roboto);
+    font-family: 'Audiowide', cursive;    
 }
 
 .t-text{
-    font: normal bold 70px/ 80px var(--audio);
+    font-family: 'Audiowide', cursive;  
 }
 
 .text-uppercase{
