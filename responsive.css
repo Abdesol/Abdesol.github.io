@@ -32,6 +32,7 @@
 /* if the viewport is equal to 340px or less than that */ 
 @media only screen and (max-width: 792px){
     .site-main .about-area .about-title h2 > span{
+        font-family: 'Staatliches', cursive;
         font-size: 31px;
         letter-spacing: 10px;
     }

@@ -95,8 +95,9 @@
 }
 
 .site-main .about-area .about-title h2 > span{
+    font-family: 'Staatliches', cursive;
+    font-size: 64px;
     display: block;
-    font: normal bold 49px/ 60px var(--roboto);
     letter-spacing: 21px;
 }
 
@@ -177,7 +178,7 @@
 }
 
 .site-main .brand-area .experience-area .years-area h2 > span{
-    font: normal 600 22px/30px var(--roboto);
+    font: normal 600 22px/30px var(--roboto);    
 }
 
 .site-main .brand-area .experience-area .call-area{
