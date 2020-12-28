@@ -10,6 +10,10 @@
 .t-text{
     font-family: 'Audiowide', cursive;  
 }
+.cert-text{
+    font-family: 'Russo One', sans-serif;
+
+}
 
 .text-uppercase{
     text-transform: uppercase;
