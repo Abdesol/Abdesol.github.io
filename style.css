@@ -27,7 +27,8 @@
 }
 
 .header_area .main-menu .nav-item .nav-link{
-    font: normal 500 15px/2px var(--roboto);
+    font-family: 'Bree Serif', serif;
+    font-size: 22px;
     text-transform: uppercase;
     padding: 1.7rem;
     color: var(--title-color);
@@ -95,7 +96,7 @@
 }
 
 .site-main .about-area .about-title h2 > span{
-    font-family: 'Staatliches', cursive;
+    font-family: 'Bangers', cursive;
     font-size: 64px;
     display: block;
     letter-spacing: 21px;
@@ -301,7 +302,8 @@ footer.footer-area{
 }
 
 footer.footer-area .social h5{
-    font: normal 500 23px/ 30px var(--roboto);
+    font-family: 'Staatliches', cursive;
+    font-size: 30px;
 }
 
 footer.footer-area .social a > i{

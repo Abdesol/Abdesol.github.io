@@ -3,7 +3,8 @@
 /* Global Classes */ 
 
 .title-text{
-    font-family: 'Audiowide', cursive;    
+    font-family: 'Audiowide', cursive;
+
 }
 
 .t-text{
@@ -62,7 +63,12 @@
 
 p.para{
     color: var(--text-color);
-    font-family: 'Rubik', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+}
+p.copy{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
 
 }
 
