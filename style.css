@@ -31,7 +31,7 @@
 }
 
 .project_view img{
-	width: 75px;
+	width: 25%;
 }
 
 .list-view .project_view:last-child{
@@ -43,19 +43,21 @@
 }
 
 .project_view .title{
-	font-weight: 600;
+    font-size: 250%;
+    font-family: 'Poppins', sans-serif;
 }
 
 .project_view .content{
 	margin: 5px 0;
-	font-size: 14px;
+	font-size: 100%;
+    font-family: 'Poppins', sans-serif;
 	line-height: 22px;
 	font-weight: 200;
 }
 
 .project_view .btn{
 	width: 125px;
-	background: #4abd3e;
+	background: #454e44;
 	padding: 8px 5px;
 	border-radius: 3px;
 	color: #fff;
@@ -65,7 +67,7 @@
 }
 
 .project_view .btn:hover{
-	background: #3bd62b;
+	background: #323831;
 }
 
 .header_area .main-menu .navbar{
