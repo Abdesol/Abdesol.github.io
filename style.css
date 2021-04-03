@@ -19,11 +19,53 @@
 
 .boxed {
     position: relative;
-    
 }
 
-.projects_box {
-    height: 100%;
+.project_view {
+	background: #fff;
+	border: 1px solid #e2efe1;
+	margin: 10px;
+	padding: 10px 20px;
+	display: flex;
+	align-items: center;
+}
+
+.project_view img{
+	width: 75px;
+}
+
+.list-view .project_view:last-child{
+	margin-bottom: 0;
+}
+
+.list-view .project_view .vi_left{
+	margin-right: 25px;
+}
+
+.project_view .title{
+	font-weight: 600;
+}
+
+.project_view .content{
+	margin: 5px 0;
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: 200;
+}
+
+.project_view .btn{
+	width: 125px;
+	background: #4abd3e;
+	padding: 8px 5px;
+	border-radius: 3px;
+	color: #fff;
+	text-align: center;
+	font-weight: 200;
+	cursor: pointer;
+}
+
+.project_view .btn:hover{
+	background: #3bd62b;
 }
 
 .header_area .main-menu .navbar{
