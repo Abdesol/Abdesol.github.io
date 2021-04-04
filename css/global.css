@@ -68,8 +68,9 @@
 
 p.para{
     color: var(--text-color);
-    font-family: 'PT Sans', sans-serif;
-    font-size: 18px;
+    font-size: 105%;
+    font-family: 'Poppins', sans-serif;
+    
 }
 p.copy{
     font-family: 'Roboto Condensed', sans-serif;
