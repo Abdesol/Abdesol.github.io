@@ -1,7 +1,4 @@
 
-/* import fonts from fonts.css file */ 
-@import url(fonts.css);
-
 
 /* css variables */ 
 @import url(variables.css);
@@ -104,7 +101,7 @@
 /* Banner Area */ 
 
 .site-main .site-banner {
-    background: url(img/banner/home-banner.png) no-repeat 0% 50%;
+    background: url(../img/banner/home-banner.png) no-repeat 0% 50%;
 }
 
 .site-main .site-banner .site-title h3{
@@ -124,6 +121,8 @@
 
 .site-main .site-banner .site-title h1{
     font-size: 5rem;
+    font-family: 'Audiowide', cursive;
+
 }
 
 .site-main .site-banner .site-title h4{
@@ -155,7 +154,11 @@
 .site-main .about-area .about-title .paragraph > p{
     padding: .4rem 0;
 }
+.para{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
 
+}
 /* End About Area */ 
 
 
@@ -365,6 +368,7 @@ footer.footer-area .social a > i{
 footer.footer-area .social a:hover > i{
     color: var(--primary-color);
 }
+
 
 
 /* End Footer */ 
